@@ -1,6 +1,6 @@
-# OS EX.4-LINUX-COMMANDS
+#  OS EX.4-LINUX-COMMANDS
 
-# AIM:
+#  AIM:
 To study and execute the basis of UNIX commands
 
 # LINUX COMMANDS :
@@ -230,5 +230,5 @@ Code:
 Output: 
 	Downloads file.zip from the specified URL.
 ```
-# Result:
+#  Result:
 Thus basis of UNIX commands are studied and executed.
